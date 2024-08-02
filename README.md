@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm interested in Java backend development and excited to explore the combination with ML/DL libraries and NoSQL (MongoDB) and relational (MySQL) databases for building innovative projects
+I'm interested in Java backend development and excited to explore the combination of ML/DL libraries and NoSQL (MongoDB) and relational (MySQL) databases for building innovative projects and exploring new technology with great enthusiasm.
 
 
 ## 🌐 Socials:
