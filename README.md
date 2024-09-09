@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Aditikhasnis/Aditikhasnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-I'm interested in Java backend development and excited to explore the combination of ML/DL libraries and NoSQL (MongoDB) and relational (MySQL) databases for building innovative projects and exploring new technology with great enthusiasm.
+
+I'm interested in  backend development and excited to explore the combination of ML/DL libraries and NoSQL (MongoDB) and relational (MySQL) databases for building innovative projects and exploring new technology with great enthusiasm.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
