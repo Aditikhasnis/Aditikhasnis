@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm interested in  backend development and excited to explore the combination of ML/DL libraries and NoSQL (MongoDB) and relational (MySQL) databases for building innovative projects and exploring new technology with great enthusiasm.
+I'm interested in  backend development and excited to explore the combination of ML/DL libraries for building innovative projects and exploring new technology with great enthusiasm.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
